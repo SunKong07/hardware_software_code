@@ -1,4 +1,4 @@
-def main():
+def main2():
     name = "Professor Nedd"
     print("We want to now if you like programming!")
     print()
@@ -8,4 +8,4 @@ def main():
     print("Let's start learning some Python today")
 
 if __name__ == "__main__":
-    main()
+    main2()
